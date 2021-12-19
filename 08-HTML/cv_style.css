@@ -1,0 +1,36 @@
+h1{
+	color: brown;
+}
+
+h3{
+
+}
+
+*{
+	background-color: orange ;
+	
+}
+
+
+
+#thrdDiv{
+	font-family: sans-serif;
+	text-align: center;
+
+}
+
+.personal{
+	margin-right: 700px;
+
+}
+.foto{
+	width: 170px;
+	height: 200px;
+	border: 10px solid black;
+}
+#extra{
+	text-align: center;
+	font-family: sans;
+	font-size: 18px;
+}
+
